@@ -12,4 +12,4 @@ Online  web scrapping api for imdb
 >   /search/:movie_title\
 
 
->  /mmovie/:imdbID
+>  /movie/:imdbID

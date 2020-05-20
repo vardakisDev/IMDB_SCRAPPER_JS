@@ -9,7 +9,10 @@ Online  web scrapping api for imdb
 
 
 
->   /search/:movie_title\
+>   /search/:movie_title
 
 
 >  /movie/:imdbID
+
+
+> /keywords/:imdbID

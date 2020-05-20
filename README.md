@@ -6,3 +6,10 @@ Online  web scrapping api for imdb
 
 
 ## https://imdb-scrapping.herokuapp.com/
+
+
+
+>   /search/:movie_title\
+
+
+>  /mmovie/:imdbID
